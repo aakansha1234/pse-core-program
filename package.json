@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ffjavascript": "^0.3.0",
+    "merkletreejs": "^0.3.11",
+    "poseidon-encryption": "^1.0.2"
   }
 }
